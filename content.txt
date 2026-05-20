@@ -1,2 +1,4 @@
 line 1 --first statement
 line 2 --second statement
+line 1 --first statement
+line 2 --second statement
